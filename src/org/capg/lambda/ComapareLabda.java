@@ -1,4 +1,4 @@
- package com.capg.java8;
+ package org.capg.lambda;
 
 import java.util.Arrays;
 import java.util.Collections;
